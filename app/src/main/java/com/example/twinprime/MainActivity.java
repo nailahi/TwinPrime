@@ -112,4 +112,3 @@ public class printPrime extends Thread{
 
 
 }
-//I'm really stressed/depressed and I cannot do this I'm so sorry
